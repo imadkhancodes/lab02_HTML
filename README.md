@@ -25,8 +25,6 @@ This repository contains HTML and CSS files for Lab 02 assignment.
 - Email: imadkhan.codes@gmail.com
 - Phone: 03436001015
 
-4. Click **"Commit changes"** (green button at top right)
-
 ## Get Repository Link
 
 Your repository link is:
