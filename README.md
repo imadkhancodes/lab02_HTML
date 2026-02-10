@@ -27,7 +27,7 @@ This repository contains HTML and CSS files for Lab 02 assignment.
 
 4. Click **"Commit changes"** (green button at top right)
 
-## Step 4: Get Your Repository Link
+## Get Your Repository Link
 
 Your repository link is:
 https://github.com/imadkhancodes/lab02_HTML
